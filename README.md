@@ -47,8 +47,8 @@ A detection log updates in real time.
 
 🖥️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone : (https://github.com/Siyamalajeyaraj/AI-Smart-Animal-Crossing-Alert-System.git)
+cd AI-Smart-Animal-Crossing-Alert-System
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
@@ -93,3 +93,4 @@ This project is licensed under the MIT License — feel free to use and modify i
 
 Siyamalajeyaraj Renu
 AI & Machine Learning Enthusiast
+
