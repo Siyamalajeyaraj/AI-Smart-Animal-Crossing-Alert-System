@@ -1,5 +1,6 @@
-# AI-Smart-Animal-Crossing-Alert-System
-This project is an AI-powered safety system designed to detect animals on roads using YOLOv8 computer vision and provide instant audio alerts to drivers. It helps prevent collisions, especially in rural and wildlife-crossing areas, by identifying animals in real-time from video or webcam feeds.
+# 🧠 AI Smart Animal Crossing Alert System
+
+This app detects animals crossing roads using AI (YOLOv8) and shows alerts to drivers through a live dashboard.
 
 ## 🚀 How to Run
 
